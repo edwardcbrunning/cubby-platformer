@@ -269,25 +269,6 @@ f d d f f f 5 2 f f f f d d f .
 . . . . f f f . . f f f . . . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "image32":
-            case "Cub1":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . f f f f f f . . . . . . 
-. . . f d f d d d f f . . . . . 
-. . f d d d f d f d d f . . . . 
-. . f d d d d d d d d d f . . . 
-. f d d d f d d d f d d f . . . 
-. f d d d f d d d f d d d f . . 
-. f d d d d d d d d d d d d f . 
-. f d d d f f f f f d d d d f . 
-. . f d d d f f f d d d d d f . 
-. . f d d d d d d d d d d d f . 
-. . . f 5 5 5 7 7 7 7 2 2 2 f . 
-. . . . f f 5 5 7 7 2 2 2 f . . 
-. . . . . . f f f f f f f . . . 
-. . . . . . . . . . . . . . . . 
-`;
             case "image1":
             case "wood":return img`
 . . . . . b b b b b b . . . . . 
@@ -325,6 +306,25 @@ e e e e f f f e f e e e e f f f
 . . . e 2 4 2 2 4 2 2 2 2 2 e . 
 . . e e 2 2 2 2 2 2 2 2 2 2 e . 
 . e e e e e e e e e e e e e e e 
+`;
+            case "image32":
+            case "Cub1":return img`
+5 5 5 1 3 3 f 3 f 3 3 1 2 2 2 2 
+5 5 5 5 1 3 f 3 f 3 1 2 2 2 2 1 
+1 5 5 5 5 1 3 3 3 1 2 2 2 2 1 7 
+7 1 5 5 5 5 1 1 1 2 2 2 2 1 7 7 
+7 7 1 5 5 5 5 1 2 2 2 2 1 7 7 7 
+7 7 7 1 5 5 5 1 2 2 2 1 7 7 7 7 
+7 7 7 7 1 5 5 1 2 2 1 7 7 7 7 7 
+7 7 7 7 7 1 5 1 2 1 7 7 7 7 7 7 
+7 7 7 7 7 7 1 1 1 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
 `;
         }
         return null;

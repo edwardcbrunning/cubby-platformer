@@ -69,11 +69,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Meera-jumpright"
     },
-    "image32": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP//AAAAAAD/3d3/AAAA8N3d3d0PAADf3d3d3fUAAP/d//3d9QAA39/d/d9VDwDf3d3931cPAN/f3f3fdw8A/93//d13DwDw3d3d3ScPAADf3d3dIg8AAPDf3d0iDwAAAPDd3fIAAAAAAP//DwAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Cub1"
-    },
     "image1": {
         "data": "hwQQABAAAAAAAAAAAAD/7gDg/////+/uANu9/v/v7u6wu9vt7u7u7rDdvb3u/+7/27293e7u/v/b29vb/v7//9vb29vu7u7u29vb2+7/7v/b29vb7u/v7tu9vd3u/u/usN29ve7u7u6wu9vt7v//7gDbve7u7v//AODu/v/u/v8AAAAAAO/u/w==",
         "mimeType": "image/x-mkcd-f4",
@@ -83,6 +78,11 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADgAAAAAEDkAO4AAAAAVFXk7gAAAEAFVSXiAAAAAAAgReIAAAAAACAi4gAAAABAVSTiAAAAQFRVReIAAABVRUAl4gAAAAAAICLiAAAAAEBVJeIAAABAVUQi4gAAAFBFQCTiAAAAVAAA7u4AAAAAAOAO4A==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "fireGoal"
+    },
+    "image32": {
+        "data": "hwQQABAAAABVcXd3d3d3d1UVd3d3d3d3VVVxd3d3d3dRVRV3d3d3dxNVVXF3d3d3M1FVFXd3d3f/E1VVcXd3dzMTERFxd3d3/xMiInF3d3czISISd3d3dxMiInF3d3d3ISISd3d3d3ciInF3d3d3dyISd3d3d3d3InF3d3d3d3cSd3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cub1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
